@@ -1,3 +1,12 @@
+
+<h1 align="left">Hi👋</h1>
+
+###
+
+<p align="left">My name is Ruan</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
